@@ -32,50 +32,41 @@
 
 ![Fonds display](Fondsscene1.png)
 
-#Scene behavior progress
-**7. Scene behaviors display**
-
-![Scene2 behaviors](Scene2scenebehaviors.png)
-
-**8. Actor behaviors display**
+**7. Actor behaviors display**
 
 ![Actor behaviors in sprint 2](Scene2Actorbehaviors.png)
 
-**9. Actors display**
+**8. Actors display**
 
 ![Actors](Scene2actorplayers.png)
 
-**10. Scene behaviors display**
-
-![Scene behaviors](Scene2scenebehaviors.png)
-
-**11. Tile sets**
+**9. Tile sets**
 
 ![Tile sets](Scenetilesets.png)
 
-**12. Sprint2 play through**
+**10. Sprint2 play through**
 
 ![Playthrough1](Scene2playthrough.png)
 
 ![Playthrough2](Scene2Scenes1.png)
 
-**13. Sprint2 game scenes display**
+**11. Sprint2 game scenes display**
 
 ![Scenes](Scene2Scenes.png)
 
 # Sprint 3 other game items logic progress
 
-**14. Actors display**
+**12. Actors display**
 
 ![Actors](Scene3Actortypes.png)
 
-**15. Actors collide relationship fixing**
+**13. Actors collide relationship fixing**
 
 ![Collide fixing1](Scene3colliideissuefixing1.png)
 
 ![Collide fixing2](Scene3collideissuefixing2.png)
 
-**16. Swordattack behaviors display**
+**14. Swordattack behaviors display**
 
 ![Swordattack behavior](Scene3Swordattackbehavior.png)
 
@@ -83,30 +74,26 @@
 
 # Sprint 3 other game items logic progress
 
-**17. Actors display**
+**15. Actors display**
 
 ![Actors](Scene3Actortypes.png)
 
-**18. Actors collide relationship fixing**
+**16. Actors collide relationship fixing**
 
 ![Collide fixing1](Scene3colliideissuefixing1.png)
 
 ![Collide fixing2](Scene3collideissuefixing2.png)
 
-**19. Swordattack behaviors display**
+**17. Swordattack behaviors display**
 
 ![Swordattack behavior](Scene3Swordattackbehavior.png)
 
 ![Swordattack behavior1](Scene3swordattackbehavior1.png)
 
-**20. Heart behavior display**
+**18. Heart behavior display**
 
 ![heart behavior](Scene3heartbehavior.png)
 
-**21. Light ball behavior display**
+**19. Light ball behavior display**
 
 ![light ball behavior](Scene3lightballbehavior.png)
-
-**23. Scene display**
-
-![Scenes](Scene3scenes.png)
