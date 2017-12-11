@@ -39,16 +39,21 @@ It also allows us to develop the logic without having to do the detailed coding.
 
 
 1. Sprint1
+
 [Sprint1](https://github.com/Anesouadou/Finalproject-XinHero-/tree/Sprint-One)
 
 
 2. Sprint2
+
 ![the game as it appears after sprint 2](sprint2.JPG)
+
 [Sprint2](https://github.com/Anesouadou/Finalproject-XinHero-/tree/Sprint-Two)
 
 
 3. Sprint3
+
 ![the game as it appears after sprint 3](sprint3.JPG)
+
 [Sprint3](https://github.com/Anesouadou/Finalproject-XinHero-/tree/Sprint-Three)
 
 
