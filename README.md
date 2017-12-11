@@ -61,7 +61,7 @@ It also allows us to develop the logic without having to do the detailed coding.
 
 1. Download the game from the Github repository.
 2. Unzip the folder.
-3. Double clic on the .swf file.  
+3. Double click on the .swf file.  
 4. Click start.
 5. Use the left, right and up arrow keys to move the fighter backward, forward and jump, respectively.
 6. Press the letter 'T' to perform an attack.   
