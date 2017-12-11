@@ -1,7 +1,5 @@
 # Enemies behavior logic progress
 
-# Enemies logic progress summary
-
 **1. Common enemies**
 
 ![Common enemies](Commonenemyscene1.png)
